@@ -1,7 +1,7 @@
     Usage: php-config <options>    
-    -h		    => help dialog 
-    -m		    => monochrome output 
-    -si		    => show script information 
+    -h		 => help dialog 
+    -m		 => monochrome output 
+    -si		 => show script information 
     -cfrp		    => check for required packets 
  
     -b		        => backup configs (PHP,apache) 
