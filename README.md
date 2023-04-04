@@ -8,6 +8,6 @@
     -ipr		 => install and activate PHP repository 
     -sa  (e|d)        => show apache modules (Enabled|Disabled) 
     -spv (i|n)        => show PHP versions (Installed|Not installed 
-    -spc		    => show PHP configuration 
-    -cpv		    => change PHP version 
+    -spc		=> show PHP configuration 
+    -cpv		=> change PHP version 
 
