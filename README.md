@@ -2,7 +2,7 @@
     -h		 => help dialog 
     -m		 => monochrome output 
     -si		 => show script information 
-    -cfrp		    => check for required packets 
+    -cfrp		  => check for required packets 
  
     -b		        => backup configs (PHP,apache) 
     -ipr		    => install and activate PHP repository 
