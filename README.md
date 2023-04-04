@@ -6,8 +6,8 @@
  
     -b		 => backup configs (PHP,apache) 
     -ipr		 => install and activate PHP repository 
-    -sa  (e|d)        => show apache modules (Enabled|Disabled) 
-    -spv (i|n)        => show PHP versions (Installed|Not installed 
-    -spc		=> show PHP configuration 
-    -cpv		=> change PHP version 
+    -sa  (e|d)       => show apache modules (Enabled|Disabled) 
+    -spv (i|n)       => show PHP versions (Installed|Not installed 
+    -spc		 => show PHP configuration 
+    -cpv		 => change PHP version 
 
